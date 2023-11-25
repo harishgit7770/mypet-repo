@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring PetClinic Sample Application  
 # Modified By AJAY KUAMR YEGIREDDI  https://www.youtube.com/@mr.cloudbook
 
@@ -230,3 +231,6 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 
 
+=======
+# mypet-repo
+>>>>>>> 1e50ed40e76183a5ad1fd2e8fda924990d9c61ab
